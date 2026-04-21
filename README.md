@@ -1,7 +1,6 @@
 # HPMNet: An Asymmetric Hypergraph-Prototype Mamba Network for Rice Mapping in Fragmented Landscapes
 
-> **Notice**: This repository contains the official implementation of the paper *"An Asymmetric Hypergraph-Prototype Mamba Network for Rice Mapping in Fragmented Landscapes"*. The manuscript is currently under review at the **International Journal of Applied Earth Observation and Geoinformation (JAG)**. 
-> 
+> **Notice**: This repository contains the official implementation of the paper *"An Asymmetric Hypergraph-Prototype Mamba Network for Rice Mapping in Fragmented Landscapes"*. 
 > 🚀 **The complete training scripts, dataset processing codes, and pre-trained weights will be fully released here upon the acceptance of the paper.**
 
 ---
@@ -32,11 +31,3 @@ A complete `requirements.txt` will be provided. The basic environment requires:
 
 If you find our work or this repository useful, please consider citing our paper (BibTeX will be updated upon publication):
 
-```bibtex
-@article{li2026hpmnet,
-  title={An Asymmetric Hypergraph-Prototype Mamba Network for Rice Mapping in Fragmented Landscapes},
-  author={Li, Heping and Pan, Yucheng and Liu, Zhangle and Hussain, Sajid and Pan, Bin},
-  journal={International Journal of Applied Earth Observation and Geoinformation},
-  year={2026},
-  note={Under Review}
-}
