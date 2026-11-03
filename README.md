@@ -1,7 +1,7 @@
 # HPMNet: An Asymmetric Hypergraph-Prototype Mamba Network for Rice Mapping in Fragmented Landscapes
 
 > **Notice**: This repository contains the official implementation of the paper *"An Asymmetric Hypergraph-Prototype Mamba Network for Rice Mapping in Fragmented Landscapes"*. 
-> 🚀 **The complete training scripts, dataset processing codes, and pre-trained weights will be fully released here upon the acceptance of the paper.**
+
 
 ---
 
